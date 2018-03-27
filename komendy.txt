@@ -2,6 +2,8 @@ node_modules/.bin/autoprefixer-cli -o main.prefixed.css style.css
 
 node_modules/.bin/nu-html-checker *.html
 
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
+
 nu-html-checker
 Usage: cli [options] <files/urls ...>
 
