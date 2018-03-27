@@ -1,14 +1,13 @@
 {
   "name": "e-learning-git-2-prime",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://maciekmacku.github.io/learn-git2/",
   "main": "index.js",
-  "dependencies": {
-    "globstar": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
+    "globstar": "^1.0.0",
     "nu-html-checker": "^0.1.0"
   },
   "scripts": {
