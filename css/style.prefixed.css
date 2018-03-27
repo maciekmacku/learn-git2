@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed");
 .jumbo-image {
+  display: -ms-flexbox;
   display: flex;
   height: 200px;
   background: url(https://images.pexels.com/photos/375510/pexels-photo-375510.jpeg?h=350&auto=compress&cs=tinysrgb);
@@ -17,5 +18,4 @@
   color: green;
   border: 1px solid green;
 }
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
